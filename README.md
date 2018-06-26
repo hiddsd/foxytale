@@ -5,3 +5,5 @@ Foxytale is an IOS Social Media App programmed in Objectiv C using the Parse Fra
 The project was built as a part of my master thesis: „Vergleich von „Backend-as-a-Service“ – 
 Anbietern für die Umsetzung in einer IOS Social-Media APP“, to review Facebook Parse Backend as a Service against other Baas provider. 
 Due to the shutting down of Parse the APP is no longer available in the APP store.
+
+The original App was developed using the AFNetworking 2.0 Framework, with self programmed and hosted backend. For comparison of different BaaS providers parts oft he app where also implemented with Quickblox BaaS
